@@ -12,7 +12,7 @@ Installation Instructions : We are assuming that composer is already installed
 	
 	1) From your projects root folder in terminal run:
 	
-		composer require GITHUB_PROJECT_URL
+		git clone https://github.com/ds4you/laravel-2fa laravel-2fa	
 		
 	2) cd laravel-2fa
 	
